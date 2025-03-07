@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249421913253",
+    "project_id": "aidocauth",
+    "storage_bucket": "aidocauth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249421913253:android:90ea3116ba5efc62e4c14c",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5KFm5BDICrQyUgxEXFZ67hCE7DEEp_sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
